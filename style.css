@@ -1,0 +1,19 @@
+
+ body{
+    background-color:aqua;
+    font-family: Arial, sans-serif;
+    text-emphasis-color: black;
+    color:black;
+ }
+
+    
+  h1{
+    color:black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.web{
+    color: brown;
+}
